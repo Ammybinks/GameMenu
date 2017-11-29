@@ -1,0 +1,368 @@
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\FontSheet.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\FontSheet.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\FontSheet.xnb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\FontSheet.xnb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\FontSheet.xnb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\FontSheet.xnb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\FontSheet.xnb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pixel.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Player.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Pointer.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Images\Main Menu.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\A.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\B.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\C.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\D.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\E.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\F.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\G.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\H.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\I.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\J.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\K.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\L.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\M.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\N.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\O.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\P.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Q.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\R.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\S.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\T.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\U.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\V.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\W.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\X.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Y.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\Z.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\Content\Fonts\FontSheet.xnb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.exe
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\bin\x86\Debug\ExperimentalFloss.pdb
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.csprojResolveAssemblyReference.cache
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.exe
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFloss\obj\x86\Debug\ExperimentalFloss.pdb

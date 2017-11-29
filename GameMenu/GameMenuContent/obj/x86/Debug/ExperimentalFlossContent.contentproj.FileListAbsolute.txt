@@ -1,0 +1,10 @@
+C:\Users\Ammybinks\Desktop\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Files\Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (3)\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ammybinks\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nye\Desktop\Files\Files - Programming\Programming\Programs\ExperimentalFloss - Copy (4) - Copy\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+F:\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nye\Dropbox\Programming\C#\Programs\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
+E:\Users\Nye\Documents\Programs\C#\ExperimentalFloss - Copy (5) - Copy - Copy\ExperimentalFloss\ExperimentalFlossContent\obj\x86\Debug\ExperimentalFlossContent.contentprojResolveAssemblyReference.cache
